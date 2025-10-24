@@ -1,0 +1,7 @@
+{
+  "name": "La Rete del Borgo",
+  "description": "A virtual shopping center that transforms local neighborhood shops into modern, elegant, and emotional digital showcases. It's an ecosystem designed to bridge tradition and technology, giving new visibility and competitiveness to local businesses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
